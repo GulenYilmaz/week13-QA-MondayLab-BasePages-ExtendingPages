@@ -1,0 +1,34 @@
+Base Pages & Extending Pages
+Introduction
+In this lab, you’ll be creating base pages and extending pages based on previous websites you’ve tested.
+
+Instructions
+Setup
+Create a folder for this lab.
+
+Run npm init -y to initialize a package.json.
+
+You are going to be writing automation tests, install the pacakges you’ll need using npm i. (Hint: if you’re having trouble remembering all of them, go look at some previous lab exercises.)
+
+Create a page olbjects folder in your lab folder, and then a file for your base page in that folder.
+
+Base Pages
+Look through your previous automation labs and demos, specifically at the tests and the page objects (keep these open, you’ll reference them in the next section as well).
+
+Identify the functions/methods that are common between all of them.
+
+Add those methods to your base page.
+
+Extending Pages
+Take all previous and page objects and convert them into extending pages to link to your base page.
+
+Wrap Up
+Add a .txt or .md file to your folder to answer the following prompts.
+
+Compare and contrast your page objects and base page files by creating a list of pros and cons for each.
+
+Which method do you like more and why?
+
+Which one do you see yourself using more in the future?
+
+Make sure to create a GitHub repo and push your work to it.
